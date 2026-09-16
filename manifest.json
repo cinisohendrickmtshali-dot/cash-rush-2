@@ -1,0 +1,18 @@
+{
+  "name": "Cash Rush — Business Simulator",
+  "short_name": "Cash Rush",
+  "description": "Build a small business from R500. Buy stock, set prices, grow your empire.",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#EFF6FF",
+  "theme_color": "#2563EB",
+  "icons": [
+    {
+      "src": "data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 512 512'><rect width='512' height='512' rx='96' fill='%232563EB'/><text x='256' y='370' font-size='320' text-anchor='middle'>💰</text></svg>",
+      "sizes": "512x512",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
